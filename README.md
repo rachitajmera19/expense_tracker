@@ -14,7 +14,7 @@ Tech Stack
 - **Storage:** Browser LocalStorage (no backend required)
 
 How to Run
-1. Clone this repo: `git clone https://github.com/rachitajmera19/spendly-expense-tracker`
+1. Clone this repo: `git clone https://github.com/rachitajmera19/expense_tracker`
 2. Open `index.html` directly in any browser — that's it!
 
 What I Learned
